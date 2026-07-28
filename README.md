@@ -46,7 +46,5 @@ The dataset simulates real-world Emergency Room operations, including patient ad
 - 🔍 Interactive Slicers & Filters
 - 🎨 Clean and Modern Healthcare-themed Dashboard Design
 
----
-
-
-⭐ **If you found this project useful, consider giving it a Star!**
+## Screenshorts / Demos
+Show that the dashboard looks like - https://github.com/kishan47sinha/Hospital-DashBoard/blob/main/Hospital%20dashboard%20image.png
